@@ -10,4 +10,4 @@
 
 - [http-server structured](https://github.com/chettriyuvraj/Go-Playground/tree/main/http-server-clean): A minimal http-server implementation with separation of concerns.
 
-- [production-grade-http-server](https://github.com/chettriyuvraj/Go-Playground/tree/main/production-grade-api-server): (In-Progress) A production grade HTTP server in Go.
+- [production-grade-http-server](https://github.com/chettriyuvraj/Go-Playground/tree/main/production-grade-api-server): (**In-Progress**) A production grade HTTP server in Go.
